@@ -64,7 +64,7 @@
     Practical Deep Learning for Coders
     Intro to Machine Learning
 
-
+https://learn.microsoft.com/en-us/training/modules/analyze-climate-data-with-azure-notebooks/0-introduction
 
 these are the main topics to learn machine learning 
 
@@ -80,7 +80,7 @@ day 2:
     Machine Learning (ML)
     Deep Learning
     Natural Language Processing (NLP)
-    
+
     Tomorrow’s goal:
         Watch the next video
         start leet code 
