@@ -1,0 +1,7 @@
+for pyton i know python well i have build couple of prjects on it 
+using django 
+Flask
+tkinter
+and more 
+
+the basic are well
