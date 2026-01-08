@@ -1,68 +1,69 @@
-1. Introduction to Machine Learning
-    Definition
-    Purpose
-    Types of Machine Learning (Supervised, Unsupervised, Reinforcement)
-2. Mathematics for Machine Learning
-    Linear Algebra
-    Calculus
-    Statistics and Probability
-3. Programming Languages for ML
-    Python and Libraries (NumPy, Pandas, Matplotlib)
-    R
-4. Data Preprocessing
-    Handling Missing Data
-    Feature Scaling
-    Data Transformation
-5. Exploratory Data Analysis (EDA)
-    Data Visualization
-    Descriptive Statistics
-6. Supervised Learning
-    Regression
-    Classification
-    Model Evaluation
-7. Unsupervised Learning
-    Clustering (K-Means, Hierarchical)
-    Dimensionality Reduction (PCA)
-8. Model Selection and Evaluation
-    Cross-Validation
-    Hyperparameter Tuning
-    Evaluation Metrics (Precision, Recall, F1 Score)
-9. Ensemble Learning
-    Random Forest
-    Gradient Boosting
-10. Neural Networks and Deep Learning
-    Introduction to Neural Networks
-    Building and Training Neural Networks
-    Convolutional Neural Networks (CNN)
-    Recurrent Neural Networks (RNN)
-11. Natural Language Processing (NLP)
-    Text Preprocessing
-    Sentiment Analysis
-    Named Entity Recognition (NER)
-12. Reinforcement Learning
-    Basics
-    Markov Decision Processes
-    Q-Learning
-13. Machine Learning Frameworks
-    TensorFlow
-    PyTorch
-    Scikit-Learn
-14. Deployment of ML Models
-    Flask for Web Deployment
-    Docker and Kubernetes
-15. Ethical and Responsible AI
-    Bias and Fairness
-    Ethical Considerations
-16. Machine Learning in Production
-    Model Monitoring
-    Continuous Integration/Continuous Deployment (CI/CD)
-17. Machine Learning Resources
-    Online Courses
-    Books
-    Blogs and Journals
-18. Resources for Machine Learning:
-    Practical Deep Learning for Coders
-    Intro to Machine Learning
+road map
+    1. Introduction to Machine Learning
+        Definition
+        Purpose
+        Types of Machine Learning (Supervised, Unsupervised, Reinforcement)
+    2. Mathematics for Machine Learning
+        Linear Algebra
+        Calculus
+        Statistics and Probability
+    3. Programming Languages for ML
+        Python and Libraries (NumPy, Pandas, Matplotlib)
+        R
+    4. Data Preprocessing
+        Handling Missing Data
+        Feature Scaling
+        Data Transformation
+    5. Exploratory Data Analysis (EDA)
+        Data Visualization
+        Descriptive Statistics
+    6. Supervised Learning
+        Regression
+        Classification
+        Model Evaluation
+    7. Unsupervised Learning
+        Clustering (K-Means, Hierarchical)
+        Dimensionality Reduction (PCA)
+    8. Model Selection and Evaluation
+        Cross-Validation
+        Hyperparameter Tuning
+        Evaluation Metrics (Precision, Recall, F1 Score)
+    9. Ensemble Learning
+        Random Forest
+        Gradient Boosting
+    10. Neural Networks and Deep Learning
+        Introduction to Neural Networks
+        Building and Training Neural Networks
+        Convolutional Neural Networks (CNN)
+        Recurrent Neural Networks (RNN)
+    11. Natural Language Processing (NLP)
+        Text Preprocessing
+        Sentiment Analysis
+        Named Entity Recognition (NER)
+    12. Reinforcement Learning
+        Basics
+        Markov Decision Processes
+        Q-Learning
+    13. Machine Learning Frameworks
+        TensorFlow
+        PyTorch
+        Scikit-Learn
+    14. Deployment of ML Models
+        Flask for Web Deployment
+        Docker and Kubernetes
+    15. Ethical and Responsible AI
+        Bias and Fairness
+        Ethical Considerations
+    16. Machine Learning in Production
+        Model Monitoring
+        Continuous Integration/Continuous Deployment (CI/CD)
+    17. Machine Learning Resources
+        Online Courses
+        Books
+        Blogs and Journals
+    18. Resources for Machine Learning:
+        Practical Deep Learning for Coders
+        Intro to Machine Learning
 
 https://learn.microsoft.com/en-us/training/modules/analyze-climate-data-with-azure-notebooks/0-introduction
 
@@ -82,6 +83,35 @@ day 2:
     Natural Language Processing (NLP)
 
     Tomorrow’s goal:
-        Watch the next video
-        start leet code 
-    
+        Watch the next video                - done
+        start leet code                     - 
+        start opencv                        -
+        internships                         - done
+day 3:
+    today, the instructor show ml types and there algo 
+
+    #==============++++| Machine Learning |++++================#
+
+    1, Supervised learning
+        Classification ---->  logistic Regression , Decision tree , k-Nearest neighours, 
+                               naive bayes, support vector machines, Random Forest, Boosting algorithms
+
+        Regression     ---->  Linear Regression, lasso Regression, ridge Regression
+
+    2, Unsupervised learning
+        Clustering     ---->  k-Means, Hierarchical Clustering
+
+    3, Reinforcement learning
+            Q-Learning (Value-Based)
+            Policy Gradient (Policy-Based)
+            Actor-Critic (Hybrid of value + policy)
+
+        Deep learning  ----> Deep Q-Network (DQN), PPO, DDPG, SAC, AlphaGo (Deep RL + MCTS)
+        NLP            ---->
+
+    Tomorrow’s goal:
+        1). next video
+        2). 1-2 leetcode problems
+        3). opencv
+        4). new python Libraries
+        5). college work
