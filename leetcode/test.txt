@@ -1,0 +1,36 @@
+
+# 
+
+
+
+
+PAYPALISHIRING
+
+P   A   H   N
+A P L S I I G                       3
+Y   I   R
+
+
+
+Input: s = "PAYPALISHIRING", numRows = 4
+Output: "PINALSIGYAHRPI"
+Explanation:
+P     I    N
+A   L S  I G                         5
+Y A   H R
+P     I
+
+
+
+
+P        s
+A      i h
+Y   l    i   g                      7
+p a      r  n
+L        i
+
+
+
+6                                 10
+
+cycle = 2 * numRows - 2 = 10

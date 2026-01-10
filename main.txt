@@ -125,4 +125,11 @@ day 4:
     Tomorrow’s goal:
         next video,
         finish the remaining tasks
-         
+
+day 5: 
+    toady on ds i havve watched 2 video and the instructor show about annaconda and some basic python
+    now going for leetcode
+    
+    Tomorrow’s goal:
+        next video 
+        complete the taks
