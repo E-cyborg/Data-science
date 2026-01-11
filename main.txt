@@ -70,7 +70,9 @@ https://learn.microsoft.com/en-us/training/modules/analyze-climate-data-with-azu
 these are the main topics to learn machine learning 
 
 day 1:
-    Today in my data science class, I learned what data science is, how it works, and the key requirements. Data science involves taking historical data, feeding it into machine learning algorithms, and using that to predict future outcomes. To become a data scientist or ML engineer, I need to focus on Python, SQL, and math.
+    Today in my data science class, I learned what data science is, how it works, and the key requirements. 
+    Data science involves taking historical data, feeding it into machine learning algorithms, and using that to predict future outcomes. 
+    To become a data scientist or ML engineer, I need to focus on Python, SQL, and math.
     Tomorrow’s goal:
         Watch the next video
         Apply to 10-20 internships
@@ -133,3 +135,13 @@ day 5:
     Tomorrow’s goal:
         next video 
         complete the taks
+
+day 6: 
+    today was an incredible day i wokeup at 3 am did some open cv 
+    video done 
+    but not the leet code 
+    Tomorrow’s goal 
+        next video 
+        2 leetcode 
+        4 reels
+        10-30 internships application
