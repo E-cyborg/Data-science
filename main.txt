@@ -151,6 +151,7 @@ day 7:
     today instructor show how to install annaconda and python 
 
 
+
 day 8:
     today i am going to the workshop of aiml organized by intel
     will see if i able to do the work or not
