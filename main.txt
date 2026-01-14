@@ -156,3 +156,13 @@ day 8:
     today i am going to the workshop of aiml organized by intel
     will see if i able to do the work or not
     
+    going for video     just basic python
+    going for opencv
+
+day 9:
+    today i was not on the mood to do work but i did some 
+    opencv , ds and 1 internship assignment
+    ds : was about the basic of python if else , try execpt blocks 
+            keyworks and errors
+    till 3rd nov :- Course date 
+    going for leet code 
