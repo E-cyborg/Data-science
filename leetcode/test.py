@@ -1,19 +1,13 @@
-class Solution(object):
-    def isMatch(self, s, p):
-        if not p:
-            return not s
-
-        first_match = bool(s) and (p[0] == s[0] or p[0] == '.')
-
-        if len(p) >= 2 and p[1] == '*':
-            return (
-                self.isMatch(s, p[2:]) or
-                (first_match and self.isMatch(s[1:], p))
-            )
-        else:
-            return first_match and self.isMatch(s[1:], p[1:])
+class Solution:
+    def threeSumClosest(self, nums, target: int) -> int:
+        clo = 0
+        for x in nums:
+            # print(x,target,x-target)
+            if 0<(x-target)<clo or 0<(x+target)<clo:
+                clo=x
+        return clo
+    
 
 
-
-z=Solution()
-print(z.isMatch(s = "aab", p = "c*a*b"))
+kk=Solution()
+print(kk.threeSumClosest([-1,2,1,-4],1))

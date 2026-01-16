@@ -1,0 +1,255 @@
+Level-2 Python
+1)	Strings
+2)	List
+3)	Dictionary
+4)	Lambda functions
+5)	File handling ======== .txt 
+
+Tuple and Set documentation  ======= > 
+Python certification ========= > pending
+Generative AI =========== > Certification (free)
+Statistics today 
+3 parts
+1)	Basic statistics 
+2)	Graphs
+3)	Visulaization
+Probabiity
+Sample theorems
+
+Around 10 days ======== 
+Buffer time to learn python more
+
+1)	You need to practice python
+2)	You need to study the statistics
+
+
+Statistics ========= very must in order to understand the data
+
+What is statistics?
+1)	Mathematics
+2)	Probability
+3)	Data
+4)	Facts and figures
+5)	Mean-mode-median
+6)	Graphs
+7)	Ratio
+
+A Data
+
+Virat Kohli average in ODI is 60
+
+I asked to Rashad , is that True?
+
+What Rashad will do
+1)	Collect the data
+2)	Organize the data
+3)	Analyse the data
+4)	Interpretation in graphical view
+
+
+Data:
+How many types of data available
+String
+Int
+Float
+
+English  =========== Math
+RS AGARWAL
+Quantitative and qualitative 
+HC verma
+
+
+
+1)	Numerical data  ============= Maths
+    Quantitative data
+
+2)	Categorical data ============ English
+    Qualitative data 
+
+
+
+Again numerical data divided into two parts
+
+Maths
+
+My salary : 50000
+My salary: 60,500.495rs
+
+
+A)	Continues data:
+What is the temp:  30.5
+98.4F ======= > fever  102 
+Room tem: <>
+B)	Discrete data:
+How many houses you have : 1 or 2
+How many fiends you have: 10 or 20
+
+How many kids you have  ?  1,2,3
+1.5  2.5
+
+
+
+	
+Numerical data (number representation)	Categorical data ( English)
+Quantitative data	Qualitative data
+Continues data	
+Discrete data	
+
+Levels of data:
+
+Numerical data ======= ML/DL/NLP ====== AI 
+
+Yes ===========1
+
+1)	Nominal data
+•	Categorical type
+•	Name of the person
+•	Name of the city
+•	Hyd blr Chennai
+•	Very very base level
+
+2)	Ordinal data
+•	Categorical type
+•	But it maintains some order
+•	Flop   Average  Hit   superhit  blockbuster
+•	Primary  secondary  teritairy
+•	High ---- Medium --- low
+•	First  class  ---- second class --- third class
+
+3)	Interval data
+•	Numerical type of data
+•	Extract equal intervals will be there
+•	It does not have a zero scale
+•	Temperature is the best example for interval level of data
+
+4)	Ratio level data
+                    The temperatures is in hyderbad twice as benguluru 
+                      Temp(hyd) = 2*Temp(blr)
+                     Temp in hyd  50c
+                      Temp in blr =25c
+                     Is this True
+Units?
+50c= 2*25c ==================== 
+Temp(hyd) in F = 2* Temp(Blr)F
+50 in C ========== > 122F
+25 in C ========== > 77F
+122= 2*77
+
+
+Weight :  60kgs
+Kid = 3okgs
+60=2*30kgs
+
+If it is has zero scale =========== > Ratio level of data
+If it does not have zero scale ===== > Interval data
+
+
+
+
+
+	
+Numerical data	Categorical data
+Quantitative 	Qualitative
+Continues 	
+Discrete	
+Interval(3)	Nominal(1)
+Ratio (4)	Ordinal(2)
+
+
+Open intro statistics
+
+40 pages ====== 8   5x16=80 + 20 
+40 pages ======= failed me 
+Probality 
+
+
+Two types of statistics
+
+1)	Descriptive statistics
+2)	Inferential statistics
+
+Population                                Sample
+
+In India every person if you consider  140cr ======== Population
+If you select only 1lakh =================== > sample
+
+Population means collection of every object
+Sample means selection of some objects from corresponding population
+
+
+
+
+
+Election fever:
+1)	Mobin
+2)	Karthik
+3)	Rashadh
+4)	Jyostns
+Which party will win?
+
+Sample data ======== instead of population
+What is the reason?
+1)	Population is huge
+2)	Time complexity
+3)	Cost 
+
+My team researched and they are conclude
+
+Sir based on our analysis in Telangana =============== 
+Will analyse on sample ======= will estimate the analysis on population
+
+25 yaers -40 salary ========= avg
+Estimate ========== infer
+
+Inferential statistics:
+Will work on samples , will estimate the outcome on population
+
+Descriptive statistics:
+Will work on population , will estimate outcome on population
+
+99.99% ======== 100% 
+
+What ever you worked sample
+
+You are estimating ======= mean 
+                                 ======== median
+                            ======== mode
+
+
+Here mean is a statistic
+           Median is a statistic
+
+
+You are working on sample to identify a mean ======= estimated mean of population
+Here mean: statistic
+Inferential statistics:  statistic can be mean/median/mode
+
+You are working on population ========= estimating outcome on population
+Outcome: Parameter
+Descriptive statistics: Parameter can be mean/median/mode
+
+
+1)	Linear regression
+2)	Logistic regression
+3)	Decision tree
+4)	KNN
+5)	Naïve bayes
+6)	SVM
+7)	RF
+8)	Bagging/boosting
+9)	K-mean
+10)	Hireactchical
+11)	Density based 
+5 qns ======== kid
+5 qns
+6qns ==============
+
+Sir just give a little difference between statistic (mean/median/mode) :  inferential statistics
+ and parameters can mean/median/mode  : descriptive statistics
+when will a mean will be statistic
+when will a mean will be statistic?
+If you work on sample ========== estimating population
+When will be a mean parameter?
+If you work on population ========= estimation population
+
+
