@@ -178,11 +178,44 @@ day 12:
     today left of statistics portation 
     27th nov
     my RAM is full i can't open anything on this laptopwithout opening anything its using 70-80% of ram 
-    and the ram is increasing so fast 
+    and the ram price is increasing so fast 
     can't buy it 
     toady was not good not bad 
     Tomorrow’s goal 
         leetcode
         next video
+        10 -internship, 10- competition, hackathons
+        Fitting 
+
+
+day 13:
+    | Category           | Type                          | Subtype / Level | Description                            | Examples                            |
+    | ------------------ | ----------------------------- | --------------- | -------------------------------------- | ----------------------------------- |
+    | **Data Types**     | **Numerical (Quantitative)**  | Discrete        | Countable whole numbers                | Number of students, goals scored    |
+    |                    |                               | Continuous      | Measurable values with decimals        | Height (170.5 cm), weight (65.2 kg) |
+    |                    | **Categorical (Qualitative)** | —               | Describes qualities or categories      | Gender, color, blood group          |
+    | **Levels of Data** | **Categorical**               | Nominal         | No order or ranking                    | Gender, nationality                 |
+    |                    |                               | Ordinal         | Ordered categories                     | Education level, satisfaction level |
+    |                    | **Numerical**                 | Interval        | Ordered, equal intervals, no true zero | Temperature (°C, °F)                |
+    |                    |                               | Ratio           | Ordered, equal intervals, true zero    | Age, height, income                 |
+
+    inferential statistics and descriptive statistics     : - Descriptive statistics summarize and describe features of a dataset (like mean, median, charts), focusing only on the data you have, while inferential statistics use sample data to make predictions, generalizations, or hypotheses about a larger population (using tests like t-tests, regression), going beyond the immediate data to draw broader conclusions
+    population and sample statistics                      : - a population is the entire group you want to study (e.g., all cars in a factory), while a sample is a smaller, manageable subset of that population (e.g., 100 cars chosen for testing) used to make inferences about the whole group because studying the entire population is often impractical
+
+
+    recommended Books for statistics
+        1: open intro statistics
+        2: ken black
+
+        khan academy
+        professor leonard = yt
+        stanford free classes 
+
+        vectors
+        Linear Algebra
+
+    Tomorrow’s goal
+        next video  -28 nov
+        leetcode 
         10 -internship, 10- competition, hackathons
         Fitting 
