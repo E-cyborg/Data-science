@@ -236,3 +236,14 @@ day 14:
     Tomorrow’s
         college work 
         next video
+day 15:
+    toady was the first college day for 4th sem and 
+    only two classes happened 
+    software eng.          : - syllabus summerize
+    computer Network       : -  basic about computer Network like ip4 and internet command like : ping, ipconfig, tracert
+
+    going for the video
+    have to rewatch video of 30 nov 
+
+    gooing to leet code
+    
